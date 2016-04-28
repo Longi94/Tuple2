@@ -1,0 +1,7 @@
+Hello ez egy proba adat!
+-----------------------
+A feladathoz nem kell.
+Azt demonstrálja, hogy ezt a fájlt a cporta minden 
+teszteset inditásakor bemásolja az aktuális katalógusba.
+
+Értelemszerûen az std input (bemenet 1..5) nem ilyen.
